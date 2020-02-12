@@ -7,7 +7,7 @@
 <h2>Usage</h2>
 <p>  Upon loading the page the moment.js date in the jumbotron is updated to todays date. Below the solid black line is where the magic happens. In order to inout notes, simply just click on any colored block that doesn't display thetime orhave the floppy disk icon. Once ypu have inputed the text, simply hit the save button (blue button) and your input will be saved onto local storage. Refresh the page to ensure that the infois saved!</p>
 
-<h2>Acknoweldgements</h2>
+<h2>Acknowledgements</h2>
 The session on Saturday and replay of the zoom helped me understand, thanks Cody!
 
 <h2>Notes</h2>
